@@ -1,6 +1,6 @@
 # fashion-ann-pipeline
 
-A simple ML pipline that trains a fully-connected neural network on
+A simple ML pipeline that trains a fully-connected neural network on
 Fashion-MNIST. Data, model and metrics are versioned with DVC and
 stored on Google Drive.
 
